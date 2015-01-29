@@ -1,9 +1,13 @@
 # curtain
-ASCII Screensaver for your terminal sessions.
+ASCII Art Screensaver for your terminal sessions.
+
+Sideways inspiration from TermSaver (https://github.com/brunobraga/TermSaver). 
 
 =============================================
 
-+Print predefined ASCII image onto terminal
++Print predefined ASCII Art image onto terminal
+
+|     https://github.com/pwaller/pyfiglet
 
 |     Take into account columns and rows of terminal
   
@@ -13,5 +17,5 @@ ASCII Screensaver for your terminal sessions.
   
 +Have image printed after inactivity
 
-|     Use a daemon to detect STDIN
+|     Use a daemon to detect STDIN (https://pypi.python.org/pypi/python-daemon/)
   
