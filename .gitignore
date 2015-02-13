@@ -57,3 +57,6 @@ target/
 *~
 *.swo
 *.swp
+
+#Jordan's Custom Ignores
+*.ignore
