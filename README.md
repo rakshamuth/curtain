@@ -20,3 +20,4 @@ Sideways inspiration from TermSaver (https://github.com/brunobraga/TermSaver).
 |     Use a daemon to detect STDIN (https://pypi.python.org/pypi/python-daemon/)
 
 raksha's first commit!
+Jordan's equally awesome commit!
